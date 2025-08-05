@@ -1,0 +1,21 @@
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    border : 1px solid black;
+    padding : 20px;
+    background-color: aquamarine;
+}
+li{
+    list-style-type: none;
+    margin : 20px
+}
+p{
+    margin : 20px
+}
+a{
+    padding: 10px;
+}
